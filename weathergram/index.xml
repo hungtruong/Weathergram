@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather action="weather.php" method="GET">
+        <Say>
+          Welcome to Weathergram. Please enter your zip code followed by the pound sign
+        </Say>
+    </Gather>
+    <Say>We didn't receive any input. Goodbye!</Say>
+</Response>
+
