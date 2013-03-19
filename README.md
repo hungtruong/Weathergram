@@ -11,3 +11,7 @@ Usage
 - Replace the $wunderground_api_key variable with your own key, and try calling the number.
 - PROFIT
 - Add more songs, since there really aren't enough yet
+
+Demo
+---------
+For a real life demo, try calling (747) 800-4726 (unless I took the demo down for some reason)
